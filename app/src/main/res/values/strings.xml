@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HealthCare+</string>
+    <string name="patient_name">Patient Name :</string>
+    <string name="patient_id">Patient ID :</string>
+    <string name="request_form">Request Form</string>
+    <string name="home_channel_labortary_payments_portfolio">Home Channel Labortary Payments Portfolio</string>
+    <string name="e_mail">E-mail :</string>
+    <string name="mobile_number">Mobile Number :</string>
+    <string name="upload_the_prescription">Upload the prescription :</string>
+    <string name="for_payments"><![CDATA[For Payments >]]></string>
+    <string name="done">Done</string>
+    <string name="you_have_to_pay_rs_200_as_a_down_payment">*You have to Pay Rs.200 as a down payment</string>
+    <string name="avatar">avatar</string>
+    <string name="business">business</string>
+    <string name="facebk">facebk</string>
+    <string name="gmail">gmail</string>
+    <string name="twitter">twitter</string>
+</resources>
